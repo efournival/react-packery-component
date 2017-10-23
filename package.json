@@ -5,6 +5,7 @@
   "description": "A Packery component for React.js",
   "dependencies": {
     "packery": "metafizzy/packery",
+    "create-react-class": "^15.6.2",
     "imagesloaded": "eiriklv/imagesloaded",
     "draggabilly": "^2.1.1",
     "prop-types": "^15.6.0"
