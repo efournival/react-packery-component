@@ -6,7 +6,8 @@
   "dependencies": {
     "packery": "metafizzy/packery",
     "imagesloaded": "eiriklv/imagesloaded",
-    "draggabilly": "^2.1.1"
+    "draggabilly": "^2.1.1",
+    "prop-types": "^15.6.0"
   },
   "devDependencies": {},
   "scripts": {
